@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658482401701",
+    "project_id": "jugador12-20729",
+    "storage_bucket": "jugador12-20729.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658482401701:android:3f4641b09d757f2367d84c",
+        "android_client_info": {
+          "package_name": "com.jugador.doce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBp9FCnLfLL76_l-jF5f7EgEaaEd3AuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
